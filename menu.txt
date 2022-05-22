@@ -1,0 +1,11 @@
+zinger_sandwich 25
+chicken_nuggets 20
+chicken_burger 20
+beef_burger 20
+beef_fajita_with_cheese 15
+chicken_fajita_with_cheese 15
+ciabatta_sandwich 20
+shawarma 16
+water 1
+soft_drinks 3
+orange_juice 3
