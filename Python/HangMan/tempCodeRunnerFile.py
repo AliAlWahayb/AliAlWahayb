@@ -1,0 +1,1 @@
+plankWord=self.WordLabel.text()

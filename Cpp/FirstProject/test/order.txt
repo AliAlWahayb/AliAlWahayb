@@ -1,0 +1,7 @@
+beef_fajita_with_cheese 15
+chicken_fajita_with_cheese 15
+beef_burger 20
+
+Total $50
+
+Fri Jul 15 04:53:43 2022

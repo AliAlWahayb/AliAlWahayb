@@ -1,0 +1,1 @@
+c = sorted(list(map(int, input().split())))

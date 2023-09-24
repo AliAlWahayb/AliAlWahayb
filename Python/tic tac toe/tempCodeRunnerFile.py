@@ -1,0 +1,2 @@
+global Turn
+Turn = True

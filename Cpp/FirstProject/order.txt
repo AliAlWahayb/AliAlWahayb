@@ -1,0 +1,6 @@
+zinger_sandwich 25
+shawarma 16
+
+Total $41
+
+Sat Oct 29 20:08:44 2022

@@ -1,0 +1,1 @@
+:/image/die_icon31024.png
