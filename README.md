@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Studying at **Imam Abdulrahman bin Faisal university**
 
-- 👨‍💻 All of my projects are available at [here in this repository](here in this repository)
+- 👨‍💻 All of my projects are available [at](https://github.com/AliAlWahayb?tab=repositories)
 
 - 📫 How to reach me **alialwahayb@outlook.com**
 
